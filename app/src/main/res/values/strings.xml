@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Transpass</string>
+    <string name="brand">TRANSPASS · ОФЛАЙН</string>
+    <string name="title">Русские клавиши\nв английской раскладке</string>
+    <string name="description">Введите текст русскими буквами и получите символы тех же клавиш в английской раскладке.</string>
+    <string name="example">Привет → Ghbdtn</string>
+    <string name="input_label">Исходный текст</string>
+    <string name="input_note">При вводе каждый символ сразу скрыт звёздочкой.</string>
+    <string name="input_hint">Введите текст</string>
+    <string name="show_result">Показать результат</string>
+    <string name="hide_result">Скрыть результат</string>
+    <string name="result_label">Результат</string>
+    <string name="result_hidden">Результат скрыт. Его можно скопировать без показа.</string>
+    <string name="copy_result">Скопировать результат</string>
+    <string name="clipboard_label">Transpass: результат</string>
+    <string name="copied">Результат скопирован</string>
+    <string name="punctuation_note">Латиница, цифры, пробелы и введённые знаки препинания сохраняются. Заглавные Ё, Х, Ъ, Ж, Э, Б и Ю дают символы клавиш с Shift.</string>
+</resources>
